@@ -41,7 +41,7 @@ Midjourney：
       align=left 
       margin=10 
       width=80 
-      src="mah.jpg"
+      src="logo.jpg"
     />
     <p>&nbsp&nbsp&nbspMArcely Lobato<br>
     &nbsp&nbsp&nbsp
